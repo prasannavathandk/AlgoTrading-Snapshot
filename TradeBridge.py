@@ -1,0 +1,2 @@
+class TradeGuy:
+    None
